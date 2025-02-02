@@ -1,6 +1,6 @@
 # Color Kit Grande Weather Station
 
-This is just a lousy fork of the Thingpulse ESP32 weather station to make it fit better in the budget for me, most of it is cosmetic.
+This is just a lousy fork of the Thingpulse ESP32 weather station to make it fit better for me, most of it is cosmetic.
 
 [![Build Status](https://github.com/ThingPulse/esp32-weather-station-touch/actions/workflows/main.yml/badge.svg)](https://github.com/ThingPulse/esp32-weather-station-touch/actions/workflows/main.yml)
 
