@@ -6,7 +6,7 @@ This is just a lousy fork of the Thingpulse ESP32 weather station to make it fit
 
 Weather station application for the [ThingPulse Color Kit Grande](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/).
 
-[![Color Kit Grande with sample application: weather station](https://thingpulse.com/wp-content/uploads/2022/10/ThingPulse-Color-Kit-Grand-with-sample-application.jpg)](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/)
+[![Color Kit Grande with sample application: weather station](https://ghcif.de/alienweather/alienstation.jpg)](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/)
 
 ## How to use it
 
